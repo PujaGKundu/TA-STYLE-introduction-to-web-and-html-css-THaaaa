@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+  }
+  h2{
+    color: red;
+  }
+  table{
+    color: white;
+    background-color: blue;
+  }
+  .alignment{
+     text-align: center;
+  }
